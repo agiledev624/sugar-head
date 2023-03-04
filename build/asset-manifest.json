@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.66cdb700.css",
-    "main.js": "/static/js/main.1ac82084.js",
-    "static/js/598.093b5678.chunk.js": "/static/js/598.093b5678.chunk.js",
+    "main.js": "/static/js/main.31ca5f99.js",
+    "static/js/598.8122ef2f.chunk.js": "/static/js/598.8122ef2f.chunk.js",
     "static/js/787.36181ba3.chunk.js": "/static/js/787.36181ba3.chunk.js",
-    "static/js/825.c864c402.chunk.js": "/static/js/825.c864c402.chunk.js",
+    "static/js/333.02d276be.chunk.js": "/static/js/333.02d276be.chunk.js",
     "static/media/mint.gif": "/static/media/mint.e45a5afd2922f4d18bac.gif",
     "static/media/secret_sauce.jpg": "/static/media/secret_sauce.da74cceb0a5dd708a9b6.jpg",
     "static/media/roadmap.jpg": "/static/media/roadmap.558cff7ad1c694fbb55f.jpg",
@@ -41,13 +41,13 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/index.html",
     "main.66cdb700.css.map": "/static/css/main.66cdb700.css.map",
-    "main.1ac82084.js.map": "/static/js/main.1ac82084.js.map",
-    "598.093b5678.chunk.js.map": "/static/js/598.093b5678.chunk.js.map",
+    "main.31ca5f99.js.map": "/static/js/main.31ca5f99.js.map",
+    "598.8122ef2f.chunk.js.map": "/static/js/598.8122ef2f.chunk.js.map",
     "787.36181ba3.chunk.js.map": "/static/js/787.36181ba3.chunk.js.map",
-    "825.c864c402.chunk.js.map": "/static/js/825.c864c402.chunk.js.map"
+    "333.02d276be.chunk.js.map": "/static/js/333.02d276be.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.66cdb700.css",
-    "static/js/main.1ac82084.js"
+    "static/js/main.31ca5f99.js"
   ]
 }
